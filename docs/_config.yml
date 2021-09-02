@@ -1,3 +1,5 @@
 remote_theme: pmarsceill/just-the-docs
 
 color_scheme: dark
+
+gh_edit_link: false
