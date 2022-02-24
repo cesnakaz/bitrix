@@ -6,4 +6,4 @@ title: Bitrix
 # Bitrix Docs
 
 
-[Link button](/){: .btn }
+[Link button](/bitrix){: .btn }
